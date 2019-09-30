@@ -45,3 +45,9 @@ nav a{
     
     font-family: "Open Sans Condensed", sans-serif;
 }
+ul{
+    color: pink;
+}
+li{
+    color: inherit;
+}
